@@ -6,7 +6,7 @@ In this program, you’ll sharpen your Python skills, apply C++, apply matrices 
 # Project_1: Implement a Matrix Class (Python)
 In this course, you will touch on Object Oriented Programming(OOP) and matrix math skills by filling out the methods in a partially-completed 'Matrix' class.
 
-# Project_2:Performance Programming in C++
+# Project_2:Translate Python to C
 This course introduces the usage of C++ in self-driving cars. The project involves the translation of a given program written in Python into C++.
 
 # Project_3:Implement Rout Planner
